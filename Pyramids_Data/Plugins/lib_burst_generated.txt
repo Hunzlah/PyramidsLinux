@@ -96,6 +96,7 @@ Library: lib_burst_generated
 --compilation-defines=PACKAGE_PHYSICS2D
 --compilation-defines=PACKAGE_TILEMAP
 --compilation-defines=PACKAGE_ANIMATION
+--debug=Full
 --output=C:\Users\ASUS\Documents\ml-agents-release_15\Project\Temp\StagingArea\Data\Plugins\lib_burst_generated
 --root-assembly=C:\Users\ASUS\Documents\ml-agents-release_15\Project\Temp\StagingArea\Data\Managed\Unity.Barracuda.dll
 --root-assembly=C:\Users\ASUS\Documents\ml-agents-release_15\Project\Temp\StagingArea\Data\Managed\UnityEngine.UI.dll
@@ -288,6 +289,7 @@ Library: lib_burst_generated
 --compilation-defines=PACKAGE_PHYSICS2D
 --compilation-defines=PACKAGE_TILEMAP
 --compilation-defines=PACKAGE_ANIMATION
+--debug=Full
 --output=C:\Users\ASUS\Documents\ml-agents-release_15\Project\Temp\StagingArea\Data\Plugins\lib_burst_generated
 --root-assembly=C:\Users\ASUS\Documents\ml-agents-release_15\Project\Temp\StagingArea\Data\Managed\Unity.Barracuda.dll
 --root-assembly=C:\Users\ASUS\Documents\ml-agents-release_15\Project\Temp\StagingArea\Data\Managed\UnityEngine.UI.dll
@@ -479,6 +481,7 @@ Library: lib_burst_generated
 --compilation-defines=PACKAGE_PHYSICS2D
 --compilation-defines=PACKAGE_TILEMAP
 --compilation-defines=PACKAGE_ANIMATION
+--debug=Full
 --output=C:\Users\ASUS\Documents\ml-agents-release_15\Project\Temp\StagingArea\Data\Plugins\lib_burst_generated
 --root-assembly=C:\Users\ASUS\Documents\ml-agents-release_15\Project\Temp\StagingArea\Data\Managed\Unity.Barracuda.dll
 --root-assembly=C:\Users\ASUS\Documents\ml-agents-release_15\Project\Temp\StagingArea\Data\Managed\UnityEngine.UI.dll
@@ -600,6 +603,7 @@ Library: lib_burst_generated
 --compilation-defines=PACKAGE_PHYSICS2D
 --compilation-defines=PACKAGE_TILEMAP
 --compilation-defines=PACKAGE_ANIMATION
+--debug=Full
 --output=C:\Users\ASUS\Documents\ml-agents-release_15\Project\Temp\StagingArea\Data\Plugins\lib_burst_generated
 --root-assembly=C:\Users\ASUS\Documents\ml-agents-release_15\Project\Temp\StagingArea\Data\Managed\Unity.Barracuda.dll
 --root-assembly=C:\Users\ASUS\Documents\ml-agents-release_15\Project\Temp\StagingArea\Data\Managed\UnityEngine.UI.dll
